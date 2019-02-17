@@ -1,2 +1,4 @@
 # COMP3350
-Activities&amp;Projects of COMP3350(Computer Organization&amp;Assembly Language Programming).
+<br />
+Code storage for activities&projects of COMP3350(Computer Organization&Assembly Language Programming).
+<br />

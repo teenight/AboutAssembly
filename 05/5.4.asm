@@ -26,7 +26,7 @@ OddNumber PROC USES ecx edx esi
     L1:
         push eax
         mul esi
-        sub eax, 1          ; because it need to be odd
+        sub eax, 1          ; because it needs to be odd
         add ebx, eax
         pop eax
         inc esi
